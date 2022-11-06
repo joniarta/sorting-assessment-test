@@ -85,7 +85,7 @@ namespace Assessment.Sorter.ConsoleApp
             _fileTochoose.Clear();
             _fileTochoose.AddRange(directoryInfo.GetFiles());
 
-            Console.WriteLine("File(s) to short: ");
+            Console.WriteLine("File(s) to sort: ");
             Console.WriteLine("-------------------------------------");
             
             for (int i = 0; i < _fileTochoose.Count; i++)
