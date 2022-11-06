@@ -1,7 +1,7 @@
 # sorting-assessment-test
 Assessment Test: Sorting
 
-Project ini terdiri dari tiga project, yaitu:
+Project ini menggunakan .NET Framework Core 3.1. Project ini terdiri dari tiga project, yaitu:
 1. Project Library untuk sorting object
 2. Project Console untuk pengujian melalui console windows
 3. Project NUnit Test untuk testing sorting object
